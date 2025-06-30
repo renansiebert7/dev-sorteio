@@ -26,9 +26,3 @@ https://renansiebert7.github.io/dev-sorteio/
 - `HTML`
 - `CSS`
 - `JavaScript`
-
----
-
-## 🚀 Como executar
-
-1. Clone o repositório:
