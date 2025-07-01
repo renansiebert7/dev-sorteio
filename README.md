@@ -8,7 +8,7 @@ Projeto desenvolvido para praticar conceitos de **HTML**, **CSS** e **JavaScript
 
 https://renansiebert7.github.io/dev-sorteio/
 
-<img src="https://github.com/renansiebert7/dev-sorteio/blob/master/2.png?raw=true">
+<img src="https://github.com/renansiebert7/dev-sorteio/blob/master/SORTEIO.png?raw=true">
 
 ---
 
